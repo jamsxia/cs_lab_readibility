@@ -1,4 +1,4 @@
-# cs_lab_readibility
+readibility
 In this repository, it is mainly about counts the words in a book and calculateing the difficulty of reading. 
 
 Several models are included in this model including Flesh-Kincaid grade level, Flesh reading ease, Automated readibiltiy index and Coleman-liau index.In
